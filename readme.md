@@ -243,4 +243,4 @@ curl "http://localhost:8080/api/v1/delivery-order-price?venue_slug=home-assignme
 
 ## Notes
 
-This project is a part of the Wolt 2025 Backend Engineering Internship assignment. It is intended to showcase coding skills and the ability to develop realistic features. The project is private and not intended for public distribution.
+This project is a part of the Wolt 2025 Backend Engineering Internship assignment. It is intended to showcase coding skills and the ability to develop realistic features. 
